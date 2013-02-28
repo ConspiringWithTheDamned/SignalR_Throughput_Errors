@@ -1,4 +1,4 @@
-SignalRPerformance Issues
+SignalR Throughput Issues
 ==============================
 
 A single connection load test using Console Hub/Client.
