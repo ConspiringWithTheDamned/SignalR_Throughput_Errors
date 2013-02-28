@@ -11,3 +11,4 @@ After implementing SignalR we found that not all requests were getting from the 
 
 This example is an oversimplification of the issue but seems to consistently reproduce the error
 
+System.Net.WebException: The underlying connection was closed: A connection that was expected to be kept alive was closed by the server. ---> System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
